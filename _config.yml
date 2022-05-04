@@ -14,18 +14,18 @@ enableToc: true
 # Comment
 comment:
     # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
-    disqus: leopard
+    disqus: zihan
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    #weibo: 5366874726 
+    github: 294coder
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    #jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 1457420643@qq.com
 
 
 # 百度统计 
@@ -36,7 +36,7 @@ baidu:
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
 ga:
-    id: UA-84134159-3  
+    #id: UA-84134159-3  
     host: auto  
 
 
@@ -67,7 +67,7 @@ blog_button:
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 技术支持, description: support, url: '/support'}      
+    #- {title: 技术支持, description: support, url: '/support'}      
     - {title: 关于我, description: about, url: '/about'}   
     
 
