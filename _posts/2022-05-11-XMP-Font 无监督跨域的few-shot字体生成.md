@@ -5,7 +5,7 @@ title: XMP-Font：无监督跨域的few-shot字体生成
 
 ![image-20220512233100855](https://raw.githubusercontent.com/294coder/blog_img_bed/main/imgs/image-20220512233100855.png)
 
-介绍视频：[CVPR2022 XMP-Font | AI字体生成_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qY4y1b7Mh?spm_id_from=333.1007.top_right_bar_window_view_later.content.click)
+介绍视频：[CVPR2022 XMP-Font 哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qY4y1b7Mh?spm_id_from=333.1007.top_right_bar_window_view_later.content.click)
 
 paper：https://arxiv.org/abs/2204.05084
 
