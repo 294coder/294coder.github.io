@@ -21,5 +21,9 @@ paper：[https://arxiv.org/abs/2204.05084](https://arxiv.org/abs/2204.05084)
 
 输入分别是两个模态，一个是字形，一个是随机mask的笔画。字形被embed成三部分，分别是feature、position和一个指示模态的indicator(文中写为modality)；笔画也被embed成三部分，分别为stoke、order index和modality。
 
+对于笔画来说，28个笔画就足以构成常用的中文字体，所以每个笔画会对应有一个label，这样经过embedding layer之后就成为512维的stroke label embedding。在构成一个字的时候，每个笔画是有顺序的（从上到下，从左到右），所以对应笔画的顺序会有一个position embedding。剩下的modality embedding为了指示是哪一个模态。
+
+对于字形来说，输入为$256\times 256\times 3$的图像，经过5层卷积层之后成为$8\times8\times 512$的feature map。
+
 
 
