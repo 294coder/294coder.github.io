@@ -1,5 +1,5 @@
 ---
-title: vicreg: variance-invariance-covariance regularization for self-supervised learning
+title: vicreg-variance-invariance-covariance regularization for self-supervised learning
 tag: deep learning-self supervised learning
 ---
 
