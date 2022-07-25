@@ -1,4 +1,7 @@
-# VICREG: VARIANCE-INVARIANCE-COVARIANCE REGULARIZATION FOR SELF-SUPERVISED LEARNING
+---
+title: vicreg: variance-invariance-covariance regularization for self-supervised learning
+tag: deep learning-self supervised learning
+---
 
 ![image-20220718115201389](https://raw.githubusercontent.com/294coder/blog_img_bed/main/imgs/image-20220718115201389.png)
 
