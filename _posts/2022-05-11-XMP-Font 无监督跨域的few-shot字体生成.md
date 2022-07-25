@@ -1,6 +1,7 @@
 ---
 layout: post
 title: XMP-Font：无监督跨域的few-shot字体生成
+tag: deep learning-downstream task
 ---
 
 ![image-20220512233100855](https://raw.githubusercontent.com/294coder/blog_img_bed/main/imgs/image-20220512233100855.png)
