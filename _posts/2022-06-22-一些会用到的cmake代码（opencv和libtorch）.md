@@ -1,4 +1,7 @@
-# OpenCV minGW编译
+---
+title: OpenCV minGW编译
+tag: c++
+---
 
 链接：
 
