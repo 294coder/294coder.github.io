@@ -54,7 +54,7 @@ $s\in \R^{(L+1)\times HW}$是从segmentation module预测的每个类别的自�
 
 实现上就是一个队列，大小为$N\times (L+1)$，每次取与query相同类别的pixel feature：
 
-<img src="C:\Users\czh\AppData\Roaming\Typora\typora-user-images\image-20220913232602700.png" alt="image-20220913232602700" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/294coder/blog_img_bed/main/imgs/image-20220913233918503.png" alt="image-20220913233918503" style="zoom:80%;" />
 
 #  Cross-Image Context Propagation Module
 
