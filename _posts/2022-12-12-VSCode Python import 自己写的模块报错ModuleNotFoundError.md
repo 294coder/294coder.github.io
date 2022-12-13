@@ -1,4 +1,6 @@
-# VSCode Python import 自己写的模块报错ModuleNotFoundError
+---
+title: VSCode Python import 自己写的模块报错ModuleNotFoundError
+---
 
 [参考链接](https://blog.csdn.net/weixin_41857881/article/details/127342287?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EYuanLiJiHua%7EPosition-3-127342287-blog-88385332.pc_relevant_3mothn_strategy_recovery&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EYuanLiJiHua%7EPosition-3-127342287-blog-88385332.pc_relevant_3mothn_strategy_recovery&utm_relevant_index=6)
 
